@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T08:10:47 EDT" name="Suite" finished-at="2024-09-22T08:11:34 EDT" duration-ms="46967">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T08:10:47 EDT" name="Test" finished-at="2024-09-22T08:11:34 EDT" duration-ms="46967">
+      <class name="com.tutorialopencart.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:10:48 EDT" name="setup" finished-at="2024-09-22T08:10:55 EDT" duration-ms="7652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginInvalidPassword()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:10:55 EDT" name="loginInvalidPassword" finished-at="2024-09-22T08:10:57 EDT" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:10:57 EDT" name="teardown" finished-at="2024-09-22T08:10:57 EDT" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:10:57 EDT" name="setup" finished-at="2024-09-22T08:11:05 EDT" duration-ms="7341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginInvalidUsername()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:05 EDT" name="loginInvalidUsername" finished-at="2024-09-22T08:11:06 EDT" duration-ms="1748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalidUsername -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:06 EDT" name="teardown" finished-at="2024-09-22T08:11:07 EDT" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:07 EDT" name="setup" finished-at="2024-09-22T08:11:14 EDT" duration-ms="6840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginInvalidcredential()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:14 EDT" name="loginInvalidcredential" finished-at="2024-09-22T08:11:15 EDT" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalidcredential -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:15 EDT" name="teardown" finished-at="2024-09-22T08:11:16 EDT" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:16 EDT" name="setup" finished-at="2024-09-22T08:11:24 EDT" duration-ms="8161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginValidcredential()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:24 EDT" name="loginValidcredential" finished-at="2024-09-22T08:11:26 EDT" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidcredential -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:26 EDT" name="teardown" finished-at="2024-09-22T08:11:26 EDT" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:26 EDT" name="setup" finished-at="2024-09-22T08:11:33 EDT" duration-ms="6651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithoutCredential()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:33 EDT" name="loginWithoutCredential" finished-at="2024-09-22T08:11:34 EDT" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutCredential -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tutorialopencart.qa.testcases.LoginTest@4b0b0854]" started-at="2024-09-22T08:11:34 EDT" name="teardown" finished-at="2024-09-22T08:11:34 EDT" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tutorialopencart.qa.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

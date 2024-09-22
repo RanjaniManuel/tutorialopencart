@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FIrefoxTest(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.tutorialopencart.qa.testcases.LoginTest">
+        <methods>
+          <include name="loginInvalidcredential"/>
+          <include name="loginWithoutCredential"/>
+          <include name="loginValidcredential"/>
+          <include name="teardown"/>
+          <include name="loginInvalidUsername"/>
+          <include name="loginInvalidPassword"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.tutorialopencart.qa.testcases.LoginTest -->
+    </classes>
+  </test> <!-- FIrefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
